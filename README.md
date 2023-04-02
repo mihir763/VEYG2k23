@@ -1,6 +1,7 @@
 # event-managment-system---saffrony-collage
 
-♐In This Website, the data of the VEYG'23 event of Saffronay College has been stored.🗃️ Anyone can read the data and then REGISTER and as per the requirement QR CODE based online payment booking the event JOINS the competition.🛑
+♐In This Website, the data of the VEYG'23 event of Saffronay College has been stored.🗃️The platform is divided into 2 parts, each of which will have various 
+events corresponding to the Degree and Diploma event for which the student has to register. Consequently, an Admin panel has been created, in which the Status can be changed based on the student's Registration data. Then, a Report will be generated for each event based on the student's data.🛑
 
 | How to Run |
 
