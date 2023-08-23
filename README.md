@@ -14,3 +14,5 @@ events corresponding to the Degree and Diploma event for which the student has t
 >Step 4:- import Database folder file. Then click to start button.
 
 >Step 5:- Run localhost/Event 🚩
+
+LINK :- https://youtu.be/jwOvmzlogb4
